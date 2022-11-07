@@ -1,41 +1,35 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name": "London",
         "img": "https://images.unsplash.com/photo-1520967824495-b529aeba26df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGxvbmRvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "details":"Welcome to London! Discover the best of London with Visit London, the official guide to England’s exciting capital. Find things to do in London, from iconic sightseeing spots and fun-filled days out to top restaurants, theatre and unmissable London events. If you’re not able to visit just yet, plan ahead to make the most of your next visit.London is the capital and largest city of England and the United Kingdom, with a population of just under 9 million.It stands on the River Thames in south-east England at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for two millennia.The City of London, its ancient core and financial centre, was founded by the Romans as Londinium and retains boundaries close to its medieval ones.",
         "price": "800$"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name": "Istanbul",
         "img": "https://images.unsplash.com/photo-1589561454226-796a8aa89b05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
         "details": "Istanbul is the most populous European city, and the world's 15th-largest city. The city was founded as Byzantium in the 7th century BCE by Greek settlers from Megara.Istanbul, a fascinating city built on two Continents, divided by the Bosphorus Strait. This is one of the greatest cities in the world where you can see a modern western city combined with a traditional eastern city, it's a melting pot of many civilizations and different people. Istanbul was also announced by the European Union as the 2010 European Capital of Culture.",
         "price": "1000$"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name": "Bali",
         "img": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJhbGl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" ,
         "details": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan. The provincial capital, Denpasar, is the most populous city in the Lesser Sunda Islands and the second-largest, after Makassar, in Eastern Indonesia. The upland town of Ubud in Greater Denpasar is considered Bali's cultural centre. The province is Indonesia's main tourist destination, with a significant rise in tourism since the 1980s.Tourism-related business makes up 80% of its economy.Bali is part of the Coral Triangle, the area with the highest biodiversity of marine species, especially fish and turtles.In this area alone, over 500 reef-building coral species can be found. For comparison, this is about seven times as many as in the entire Caribbean.Bali is the home of the Subak irrigation system, a UNESCO World Heritage Site.It is also home to a unified confederation of kingdoms composed of 10 traditional royal Balinese houses, each house ruling a specific geographic area. The confederation is the successor of the Bali Kingdom. The royal houses are not recognised by the government of Indonesia; however, they originated before Dutch colonisation.",
         "price": "1069$"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name":"Qatar",
         "img": "https://images.unsplash.com/photo-1537345532964-7c8f0749f8b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         "details": "Qatar has been ruled as a hereditary monarchy by the House of Thani since Mohammed bin Thani signed a treaty with the British in 1868 that recognised its separate status. Following Ottoman rule, Qatar became a British protectorate in the early 20th century until gaining independence in 1971. The current emir is Tamim bin Hamad Al Thani, who holds nearly all executive and legislative authority under the Constitution of Qatar, as well as controlling the judiciary.He appoints the prime minister and cabinet. The partially-elected Consultative Assembly can block legislation and has a limited ability to dismiss ministers.In early 2017, Qatar's total population was 2.6 million, with 313,000 of them Qatari citizens and 2.3 million expatriates. Its official religion is Islam.In terms of income, the country has the fourth-highest GDP per capita in the world,and the sixth-highest GNI per capita.Qatar has the third-highest HDI in the Arab world.It is a high-income economy, backed by the world's third-largest natural gas reserves and oil reserves.Qatar is one of the world's largest exporters of liquefied natural gas and the world's largest emitter of carbon dioxide per capita.",
         "price": "850$"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name": "Dubai",
         "img": "https://images.unsplash.com/photo-1546412414-8035e1776c9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "details": "Dubai is the most populous city in the United Arab Emirates (UAE) and the capital of the Emirate of Dubai.Established in the 18th century as a small fishing village, the city grew rapidly in the early 21st century with a focus on tourism and luxury,[10] having the second most five-star hotels in the world,[11] and the tallest building in the world, the Burj Khalifa, which is over a half a mile tall.In the eastern Arabian Peninsula on the coast of the Persian Gulf,it is also a major global transport hub for passengers and cargo.Oil revenue helped accelerate the development of the city, which was already a major mercantile hub. A centre for regional and international trade since the early 20th century, Dubai's economy relies on revenues from trade, tourism.The city has a population of around 3.49 million ",
         "price": "1500$"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name": "Phuket",
         "img": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=801&q=80",
         "details": "Phuket is home to more than 40 km of perfect stretches of sand, with many of the beaches protected as part of the island’s national parks. The huge number of beaches means there’s something for everyone.Patong Beach and Karon Beach are two of the best beaches in Phuket. They’re both incredibly lively destinations, lined with buzzing bars, restaurants, and neon-lit nightlife. These beaches are also excellent places to try out some island watersports, and pick up souvenirs from local vendors.Searching for a little more adventure? Some of Phuket’s best beaches can only be accessed by boat, making them almost completely isolated from the island crowds. Freedom Beach, which is surrounded by thick rainforest, can be reached in just 25 minutes from the town of Patong.",
