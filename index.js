@@ -25,6 +25,7 @@ async function run() {
 
     // await client.connect()
     const serviceCollection = client.db('tourGuider').collection('services');
+    const reviewCollection = client.db('tourGuider').collection('review')
     try {
         app.get('/services', async (req, res) => {
             const query = {}
@@ -32,6 +33,17 @@ async function run() {
             const services = await cursor.toArray();
             res.send(services);
         });
+        app.post('/myreviews', async (req, res) =>{
+            const review = req.body;
+           const result = await reviewCollection.insertOne(review);
+            res.send(result);
+        });
+        app.get("/myreviews", async (req, res) => {
+            const query = {};
+            const cursor = await reviewCollection.find(query);
+            const reviews = await cursor.toArray();
+            res.send(reviews);
+          });
         app.get("/services/:id", async (req, res) => {
             const id = req.params.id;
             const query = { _id: ObjectId(id) };
